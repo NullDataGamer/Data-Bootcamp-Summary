@@ -5,7 +5,7 @@ Now with a basic understanding of the varying types of charts and graphs along w
 For each of those software data cleaning, transformation and visualisation was shown (where applicaable).
 Based on that the workbooks provided along with data sets which were completed a few intresting findings are listed below.
 
-##Tableau
+## Tableau
 The first Tableau dataset was about the employment rate change in the UK.
 After compiling the data and creating various graphs and charts the main finding was that outside of London, Brighton and Nottingham had the largest change in the UK by a significant margin.
 The Graph shown below demonstrates this with a map of the UK and the change in employment shown by the size of the bubble.
