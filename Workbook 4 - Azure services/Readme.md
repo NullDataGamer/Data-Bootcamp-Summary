@@ -24,3 +24,7 @@ This lab required setting up a data warehouse with a data pipeline and then tran
 <img width="329" height="192" alt="Image" src="https://github.com/user-attachments/assets/11a93306-9e03-4784-8d45-b06f9643722d" />
 
 
+The final task for workbook 4 was to create a full report between 1500 - 2000 words recommending online services and the data structure for a growing business.
+The finished report is in the folder as a stand alone word document titled "Workbook 4 Pet Shop Recommendation".
+This report required taking all the knowledge learnt so far and translating it into a real world example.
+The report was made to follow professional formatting with an executive summary along with a more detailed breakdown.
