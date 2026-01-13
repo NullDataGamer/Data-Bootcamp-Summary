@@ -50,7 +50,7 @@ The completion of task 2 is shown below.
 <img width="530" height="292" alt="Image" src="https://github.com/user-attachments/assets/024d0ac4-f380-496a-b18c-c4437664b16f" />
 
 
-Task 3 required the completion of the lab "Design a report in PowerBI desktop" the dataset provided was already cleaned all that was required was to complete a dashboard. The dashboard included dropdown lists and the ability to select options to alter the charts on the page.
+Task 3 required the completion of the lab "Design a report in PowerBI desktop" the dataset provided was already cleaned all that was required was to complete a dashboard. The dashboard included a dropdown list (year) and the ability to select options to alter the charts on the page (Country).
 The proof of completion of this task is shown below.
 
 <img width="415" height="232" alt="Image" src="https://github.com/user-attachments/assets/9f8286f7-b02c-4ba7-a380-9b991e6c92ed" />
