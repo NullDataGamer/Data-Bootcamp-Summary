@@ -5,4 +5,4 @@ Starting with my completion of the JustIT data bootcamp and then my own projects
 This covers everything from Excel to PowerBI and Python.
 Currently I have only completed one project as I have a couple in progress and will update my portfolio once finished.
 
-![Dashboard 1](Dashboard%201.png)
+![Dashboard 2](Dashboard%202.png)
